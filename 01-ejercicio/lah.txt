@@ -1,0 +1,4 @@
+docs 775
+logs 775
+src 775
+README 664
